@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PGA_Task_01", "PGA_Task_01\PGA_Task_01.csproj", "{0669543E-DFA8-477F-BEC6-FFB79466DFC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0669543E-DFA8-477F-BEC6-FFB79466DFC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0669543E-DFA8-477F-BEC6-FFB79466DFC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0669543E-DFA8-477F-BEC6-FFB79466DFC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0669543E-DFA8-477F-BEC6-FFB79466DFC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC9B27D3-A51B-40AB-B3C2-10EAA27B1854}
+	EndGlobalSection
+EndGlobal
